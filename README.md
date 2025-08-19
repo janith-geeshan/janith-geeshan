@@ -16,7 +16,7 @@
 
 - ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
 <a href="https://fb.com/janiyaa.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janiyaa.99" height="30" width="40" /></a> 
 <a href="https://instagram.com/__janith.zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__janith.zz" height="30" width="40" /></a> 
@@ -24,10 +24,10 @@
 </p>
 
 ---
-
+<h3 align="center">🔎 Languages and Tools</h3>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-### 👨‍💻 Languages and Tools
+
 
 <br />
 
@@ -38,7 +38,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ---
 
