@@ -51,4 +51,4 @@
 ---
 
 <h2 align="center">Thank You for visiting my profile  <3 </h2>
-<p align="center">Feel free to fork and 🌟 this repo.........🥹🫶 </p>
+<p align="center">Feel free to check and 🌟 this repo.........🥹🫶 </p>
