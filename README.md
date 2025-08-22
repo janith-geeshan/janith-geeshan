@@ -10,9 +10,9 @@
 
 - 🎓 I’m currently learning at <b>Java Institute for Advanced Technology.</b>
 
-- 📫 How to reach me **itzjanithgeeshan@gmail.com**
+- 📫 How to reach me :- **itzjanithgeeshan@gmail.com**
 
-- ⚡ Fun fact **You can call me Janiya 😜**
+- ⚡ Fun fact :- **You can call me Janiya 😜**
 
 - ---
 
